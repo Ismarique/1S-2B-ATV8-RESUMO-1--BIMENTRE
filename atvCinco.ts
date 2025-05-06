@@ -32,3 +32,23 @@ if (numero4>numero1 && numero4>numero2 && numero4>numero3 && numero4>numero5){
 if (numero5>numero1 && numero5>numero2 && numero5>numero3 && numero5>numero4){
         console.log(`o maior numero é ${numero5}`)
         }
+
+        if (numero1<numero2 && numero1<numero3 && numero1<numero4 && numero1<numero5){
+            console.log(`o menor numero é:${numero1} `)
+            }
+            
+            if (numero2<numero1 && numero2<numero3 && numero2<numero4 && numero2<numero5){
+                console.log(`o menor numero é: ${numero2}`)
+                }
+            
+            if (numero3<numero1 && numero3<numero2 && numero3<numero4 && numero3<numero5){
+                    console.log(`o menor numero é: ${numero3}`)
+            }
+            
+            if (numero4<numero1 && numero4<numero2 && numero4<numero3 && numero4<numero5){
+                console.log(`o menor numero é ${numero4}`)
+                }
+            
+            if (numero5<numero1 && numero5<numero2 && numero5<numero3 && numero5<numero4){
+                    console.log(`o menor numero é ${numero5}`)
+                    }
